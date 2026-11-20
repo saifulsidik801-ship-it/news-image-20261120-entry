@@ -68,3 +68,10 @@ more stories + cleaner art, not on a new skeleton.
 ## Sources
 Reuters, CNN, AP, AFP, BBC, The Hindu, IMD, ICC, UNEP, Cricbuzz/ESPNcricinfo,
 Sensor Tower via Deadline/Reuters, OneTurn.news roundup (12:05 AM ET Fri).
+
+## Revision — post-build verification (20 Nov 17:40 WIB)
+- entry.png re-verified at full resolution: 1024x1024, 39 stories, all text legible, ALSO ends y=900, DATE CHECK y=916, sources fit on one line.
+- Numbers row re-checked against sources: 372,000 evacuated (Disaster Mgmt Minister Suresh Pujari), $97.17 Anthropic close +17%, 175* Nicholls unbeaten, 51-48 Senate, 100 missiles over Kyiv, 99 GTA VI Metacritic.
+- Region bar recomputed from the 39 stories: EUROPE 9, THE AMERICAS 14, ASIA-PACIFIC 6, MIDEAST 3, AFRICA 2, OCEANIA 4, WORLD 1.
+- DATE CHECK verified: no listed item appears on the page itself, so the page cannot contradict itself.
+- main.py unchanged (copy program, mode 100755) — verified working; entry.png is drawn from scratch, not copied from v2.
