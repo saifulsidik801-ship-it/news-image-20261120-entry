@@ -15,3 +15,10 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=mxhczr02&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards</sub>
+
+## v3 — what changed
+- 39 Friday-first stories (13 leads + 26 ALSO), fresh evening data: Akvan landfall complete with 372,000 evacuated, Kyiv 8 killed with 100+ missiles and 400 drones, cricket Day 2 stumps NZ 368 with Nicholls 175 not out, COP31 carbon-capture pivot with a Panama veto threat.
+- Layout follows the top-10 pattern: huge serif date, numbers row, region bar, map with numbered pins, ALSO list, DATE CHECK.
+
+## Verification
+- entry.png re-verified at full resolution: 1024x1024, all text legible, ALSO ends y=900, DATE CHECK y=916, sources fit on one line. Numbers row and region bar recomputed from the same 39 stories.
