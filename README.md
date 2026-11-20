@@ -1,23 +1,27 @@
-# THE WORLD — Friday, 20 November 2026
+# news-image-20261120-entry
 
-make.fun `news-image-20261120` entry: one image summing up Friday 20 November
-2026's world news, drawn as a newspaper front page.
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/saifulsidik801-ship-it/news-image-20261120-entry/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/saifulsidik801-ship-it/news-image-20261120-entry/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-**Lead:** Trump, Xi and Putin hold the first-ever three-way summit in China,
-releasing a joint "peace declaration" and discussing nuclear arms control.
+## The World in One Day
 
-**Also in the image:**
+A one-page newspaper image summing up Friday 20 November 2026 — 36 stories on a single page. The three big leads are cyclone Akvan making landfall in India, COP31 reaching its final day, and Anthropic's first close at $97.17, up 17% on its first day of trading. The page also carries a world map with numbered pins showing where it happened, a numbers row, a region bar, a red DATE CHECK box listing the Thursday stories that were deliberately left out, and a sources line.
 
-- The Hague — the UN court rules Myanmar committed genocide against the
-  Rohingya in the 2017 crackdown.
-- India — Cyclone Akvan slams Odisha; 300,000 evacuated, 423 rescue teams
-  deployed.
-- Space — NASA confirms Voyager 1 has reached one light-day from Earth.
-- Markets — Anthropic shares jump 17% on their first day of trading; the AI
-  firm is valued at $1.5 trillion.
-- Also today: APEC leaders meet in Shenzhen; Seoul's top court clears ex-PM
-  Han; Ukraine hits the Crimean Bridge rail link; Fiji declares a drought
-  disaster; the US and Venezuela restore military ties.
+The page was rendered programmatically (PIL), so all text is exact and legible — no AI-generated image text.
 
-`main.py` (Python 3.13, standard library only) copies `entry.png` to
-`/output/entry.png` — deterministic, no network. License: MIT.
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=./out python3 main.py
+```
+
+`main.py` copies `entry.png` byte-for-byte into `MAKEFUN_OUTPUT_DIR`.
+
+## License
+
+MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=mxhczr02&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards</sub>
